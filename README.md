@@ -6,4 +6,4 @@ Urban scenarios will be used to expand on current literature on Diminished Reali
 
 ## Work in progress: Please keep checking back for updates!
 
-NeRF directory/codes written in <a href="https://www.udemy.com/course/neural-radiance-fields-nerf/">Neural Radiance Fields (NeRF) course on Udemy</a>
+-NeRF directory/codes written in <a href="https://www.udemy.com/course/neural-radiance-fields-nerf/">Neural Radiance Fields (NeRF) course on Udemy</a>
