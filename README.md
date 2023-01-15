@@ -1,5 +1,4 @@
-# NeRFusion
-### Towards Understanding Diffusion and NeRF in Spatial Computing (Work in progress)
+# NeRFusion: Towards Understanding Diffusion and NeRF in Spatial Computing (WIP)
 
 Exploring diffusion with natural language and editable neural radiance fields (NeRF) in 3D reconstructed environments towards understanding applications in human-robot interaction and spatial computing.
 
